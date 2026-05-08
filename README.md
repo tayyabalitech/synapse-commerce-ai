@@ -4,11 +4,18 @@
   <p><strong>Autonomous Human-in-the-Loop E-Commerce Orchestration Platform</strong></p>
 
   <p>
-    <a href="#features">Features</a> •
-    <a href="#architecture">Architecture</a> •
-    <a href="#workflow">Workflow</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#tech-stack">Tech Stack</a>
+    <a href="#-core-features">Features</a> •
+    <a href="#-multi-agent-architecture">Architecture</a> •
+    <a href="#️-tech-stack">Tech Stack</a> •
+    <a href="#-local-setup--installation">Installation</a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Python Version" />
+    <img src="https://img.shields.io/badge/Next.js-14-black.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/FastAPI-API-009688.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/AI-Gemini_2.5-orange.svg?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   </p>
 </div>
 
